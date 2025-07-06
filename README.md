@@ -15,6 +15,7 @@ This project showcases a fully functional **Excel dashboard** designed to analyz
 
 ## 📈 Dashboard Features
 
+![new revenue forecast dashboard](https://github.com/user-attachments/assets/ca5b1595-ba22-4360-89b8-37a40aeea4bc)
 
 ✅ KPI Cards:  
 - Total Revenue  
@@ -66,5 +67,5 @@ This project showcases a fully functional **Excel dashboard** designed to analyz
 ## 📬 Contact
 
 **Julia Laskar**    
-📧 zaralaskar880@gmail.com  
+📧 julialaskar.data@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/julia-laskar)
